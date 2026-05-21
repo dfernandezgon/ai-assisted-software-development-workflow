@@ -1,4 +1,4 @@
-# AI-Assisted Software Development Workflow
+:# AI-Assisted Software Development Workflow
 
 A human-centered framework for thinking, building, and maintaining software in the age of AI.
 
@@ -23,6 +23,14 @@ The workflow is based on real migration, maintenance, refactoring and developmen
 Version 2.1 — working public draft.
 
 Feedback from software engineers, system administrators, technical leads and teams using AI-assisted development is welcome.
+
+## Contact and feedback
+
+Feedback, suggestions and professional discussion are welcome.
+
+The preferred way to comment on this document is by opening an issue in this repository:
+
+[Open an issue](../../issues)
 
 ## License
 
