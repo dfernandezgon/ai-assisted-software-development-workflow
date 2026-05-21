@@ -1,4 +1,4 @@
-:# AI-Assisted Software Development Workflow
+# AI-Assisted Software Development Workflow
 
 A human-centered framework for thinking, building, and maintaining software in the age of AI.
 
